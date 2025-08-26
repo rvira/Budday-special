@@ -121,13 +121,12 @@ body {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #a73c83;
   border: none;
   border-radius: 5px;
-  box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #8e3e81}
 
 .button:active {
   background-color: #3e8e41;
@@ -144,3 +143,4 @@ body {
   -ms-transform: translateY(50%);
   transform: translateY(50%);
 }
+
